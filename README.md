@@ -10,4 +10,5 @@ Obstacle detection and avoidance.
 Real-time environment simulation for testing vehicle performance.
 Purpose
 The project aims to provide a foundation for building autonomous vehicle systems, leveraging ROS 2 for modularity and scalability, and simulation tools for rapid prototyping and testing.
+
 Feel free to explore the repository, experiment with the provided tools, and contribute to the project! 🚀
